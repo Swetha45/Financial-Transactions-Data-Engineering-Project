@@ -16,3 +16,4 @@ To manage and process the data, I created an Azure Storage Account to load bulk 
 
 Next, I set up app registrations to securely access the data from Databricks. In Databricks, I applied transformations and analysis on the transactional data to identify premium customers based on their transaction behavior.
 
+DataSet Link : https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data?select=transactions_data.csv
